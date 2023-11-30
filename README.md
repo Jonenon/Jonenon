@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonenon (Somehow Jenonen was taken)
 - 👀 I’m interested in making music and modding games.
-- 🌱 I’m currently learning JavaScript and making Discord bots.
+- 🌱 I’m currently learning C#, JavaScript, and Ruby.
 - 💞️ I’m looking to collaborate on musical composition, mods, random programs I might make.
 - 📫 jwintemberg@live.com
 
